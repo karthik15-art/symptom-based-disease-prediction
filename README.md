@@ -6,6 +6,10 @@ A Machine Learning-based web application that predicts possible diseases based o
 
 ---
 
+**LIVE DEMO :** https://symptom-based-disease-prediction-ycpjftc2gdvdqdqqyzjbkt.streamlit.app/
+
+---
+
 ## 🚀 Features
 
 * Predicts diseases based on user-selected symptoms.
@@ -122,6 +126,7 @@ numpy
 scikit-learn
 streamlit
 ```
+
 
 ---
 
