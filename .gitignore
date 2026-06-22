@@ -1,0 +1,6 @@
+dataset.csv
+cleaned_disease_data.csv
+disease_model.pkl
+symptom_list.pkl
+__pycache__/
+.venv/
