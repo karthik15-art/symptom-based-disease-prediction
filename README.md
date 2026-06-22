@@ -111,10 +111,9 @@ RandomForestClassifier(
 
 ### Clone the repository
 
-```bash
-git clone https://github.com/your-username/Disease-Symptom-Predictor.git
-cd Disease-Symptom-Predictor
-```
+**Clone Link :** https://github.com/karthik15-art/disease-prediction-clone.git
+
+---
 
 ## 📋 Requirements
 
