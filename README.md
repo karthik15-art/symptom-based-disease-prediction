@@ -179,4 +179,4 @@ Always consult a qualified healthcare professional for proper medical advice.
 
 Developed by **Karthikeyan**
 
-B.Tech AI&Data Science | Machine Learning Enthusiast
+B.Tech Artificial Intelligence & Data Science | Machine Learning Enthusiast
